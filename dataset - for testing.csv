@@ -1,0 +1,409 @@
+task_type,variance,goal,description,level
+aspect-aggregated,,['dtm-aggregate-aspect'],Summarize aggregate aspects from English customer reviews.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Extract and summarize aggregate aspects from Chinese social media comments.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Identify and aggregate aspects mentioned in English scientific articles.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct aggregate aspect summarization of Chinese product feedback.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Provide aggregated aspect analysis from English travel blogs.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Summarize aggregate aspects found in Chinese healthcare forums.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Aggregate and summarize aspects from English financial reports.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Generate aggregate aspect summaries from Chinese online discussion boards.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Perform aggregation of aspects from English academic abstracts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Summarize and aggregate aspects from Chinese customer service transcripts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct aggregate aspect analysis on English customer reviews.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Perform aggregate aspect summarization on Chinese social media comments.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Carry out aggregate aspect extraction from English forum posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Aggregate the key aspects from Chinese online product descriptions.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Generate an aspect summary of English scientific articles.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Execute aggregate aspect extraction from Chinese market research reports.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Create aggregated aspect insights from English blog content.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Summarize main aspects from Chinese consumer feedback data.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Implement aggregate aspect analysis of English support tickets.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Produce an aggregated aspect summary from Chinese interview transcripts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Analyze aggregate aspects from Chinese text in CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Perform aspect aggregation analysis on Chinese text from CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Carry out aspect aggregation on Chinese text data from CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Execute aspect aggregation analysis on Chinese CSV text data.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct aspect aggregation on Chinese text in CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Perform an analysis by aggregating aspects from Chinese text in CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Carry out an analysis by aggregating aspects in Chinese text from CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Execute an analysis by aggregating aspects from Chinese CSV text data.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct an analysis by aggregating aspects from Chinese text within CSV files.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Analyze aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct an analysis of the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Perform an analysis on the aggregated document-term matrix derived from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Examine the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Investigate the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Carry out an analysis of the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Undertake an analysis of the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Execute an analysis of the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,['dtm-aggregate-aspect'],Conduct a study on the aggregated document-term matrix from Chinese PTT posts.,1
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Generate aggregate aspect summaries from Chinese social media posts using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Perform aspect aggregation analysis on Chinese product reviews with CKIP segmentation.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Conduct aggregate aspect extraction on Chinese academic abstracts using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Summarize aggregate aspects of Chinese customer feedback with CKIP word segmentation.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Apply CKIP tokenizer to aggregate aspect analysis of Chinese blog articles.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Conduct aspect aggregation for Chinese online forum discussions using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Aggregate key aspects from Chinese medical reports with CKIP segmentation tool.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Execute aggregate aspect analysis on Chinese survey responses using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Implement CKIP tokenizer for aggregate aspect summarization of Chinese literature content.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Conduct aggregate aspect mining on Chinese financial news data using CKIP segmentation.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Summarize and aggregate key aspects from Chinese consumer product reviews using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Use CKIP tokenizer to aggregate main aspects from Chinese financial news articles.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Apply CKIP tokenizer to aggregate essential aspects from Chinese customer feedback data.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Aggregate important aspects from Chinese social media posts by leveraging CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Employ CKIP tokenizer to aggregate major aspects from Chinese survey responses.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Identify and aggregate significant aspects from Chinese educational forum discussions using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Aggregate primary aspects from Chinese policy documents with CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Utilize CKIP tokenizer to aggregate aspects from Chinese tourism reviews.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Aggregate and summarize key aspects from Chinese environmental reports using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Extract and aggregate key aspects from Chinese job applicant resumes utilizing CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Summarize essential aspects from Chinese customer reviews using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Extract key aspects from Chinese product descriptions by applying the CKIP word segmentation tool.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Perform aspect aggregation on Chinese social media posts utilizing CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Identify major aspect from Chinese online news articles with CKIP word segmentation.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Apply CKIP tokenizer to aggregate key aspects extracted from Chinese e-commerce product descriptions.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Utilize ckip tokenizer and do aggregate aspect analysis from a Chinese CSV file.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Execute aggregate aspect extraction on Chinese academic literature texts utilizing CKIP tokenization.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Apply CKIP segmentation to extract and summarize aggregated aspects from Chinese forum discussions.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Implement aggregate aspect extraction on Chinese survey responses through the CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Carry out aggregate aspect extraction from Chinese news articles with the assistance of CKIP word segmentation.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Conduct a comprehensive aspect aggregation analysis on Chinese product feedback using CKIP tokenizer.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Utilize CKIP segmentation to aggregate and summarize aspects extracted from Chinese interview transcripts.,2
+aspect-aggregated,,"['dtm-aggregate-aspect', 'tokenize-ckip']",Perform aggregate aspect extraction analysis on Chinese restaurant reviews with CKIP word segmentation.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze and visualize the co-occurrence network of Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Visualize the co-occurrence network analysis of Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze the co-occurrence network from Chinese PTT posts and visualize it.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Perform co-occurrence network analysis on Chinese PTT posts and visualize the results.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Visualize the results of co-occurrence network analysis performed on Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze Chinese PTT posts to create a co-occurrence network and visualize it.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Create a co-occurrence network from Chinese PTT posts and visualize the analysis.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Perform an analysis on Chinese PTT posts to visualize the co-occurrence network.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze and create a visual representation of the co-occurrence network from Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze co-occurrence matrix and visualize network from Chinese text in CSV file.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Visualize network and analyze co-occurrence matrix from Chinese text in CSV file.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']","From Chinese text in CSV file, analyze co-occurrence matrix and visualize network.",2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']","From Chinese text in CSV file, visualize network and analyze co-occurrence matrix.",2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze co-occurrence matrix from Chinese text in CSV file and visualize the network.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Visualize the network and analyze co-occurrence matrix from Chinese text in CSV file.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']","From Chinese text in CSV file, analyze the co-occurrence matrix and visualize the network.",2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']","From Chinese text in CSV file, visualize the network and analyze the co-occurrence matrix.",2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",Analyze the co-occurrence matrix from Chinese text in CSV file and visualize network.,2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']",Analyze the correlation matrix and visualize the network from Chinese PTT posts.,2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']",Visualize the network and analyze the correlation matrix derived from Chinese PTT posts.,2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']","From Chinese PTT posts, visualize the network and analyze the correlation matrix.",2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']",Analyze the correlation matrix from Chinese PTT posts and visualize the network.,2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']","From Chinese PTT posts, analyze the correlation matrix and visualize the network.",2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']",Visualize the network from Chinese PTT posts and analyze the correlation matrix.,2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']","Analyze the correlation matrix, then visualize the network from Chinese PTT posts.",2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']","From Chinese PTT posts, first analyze the correlation matrix, then visualize the network.",2
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix']","First analyze the correlation matrix, then visualize the network from Chinese PTT posts.",2
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","Utilize the CKIP tokenizer to tokenize Chinese PTT texts after dividing them into sentences, followed by performing a co-occurrence network analysis.",3
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","For Chinese PTT documents, first break them into sentences, then apply the CKIP tokenizer for tokenization, and subsequently engage in an analysis of the co-occurrence network.",3
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","Divide Chinese PTT texts into sentences, use the CKIP tokenizer for tokenization, and then proceed with a network analysis based on co-occurrences.",3
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","Start by splitting Chinese PTT texts into sentences, then tokenize using the CKIP tokenizer, and carry out a network analysis focusing on co-occurrences.",3
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","After segmenting Chinese PTT texts into sentences, employ the CKIP tokenizer for tokenization, followed by a co-occurrence network analysis.",3
+network-visualized,co-occurrences,"['visualized-network-graph', 'co-occurrence-matrix', 'sentence-segmentation']","Initially, divide Chinese PTT texts into sentences, then tokenize with the CKIP tokenizer, and perform a network analysis to explore co-occurrences.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",I intend to create a network visualization of word co-occurrences in Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",My goal is to visualize the network of word co-occurrences in Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",I plan to depict a network map showing word co-occurrences in Chinese from PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",I aim to construct a visual network representation of word co-occurrences in Chinese PTT content.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",My task is to generate a network diagram illustrating word co-occurrences in Chinese PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix']",I will be creating a visual network of co-occurring words in Chinese texts from PTT posts.,2
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']",Analyze the co-occurrence matrix and visualize the network from Chinese PTT posts after removing stop words.,3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Visualize the network and analyze the co-occurrence matrix of Chinese PTT posts, post stop word removal.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Post stop word removal, analyze the co-occurrence matrix and visualize the network from Chinese PTT posts.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Analyze the co-occurrence matrix from Chinese PTT posts and visualize the network, after stop words have been removed.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","After removing stop words, analyze the co-occurrence matrix and visualize the network from Chinese PTT posts.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Visualize the network and analyze the co-occurrence matrix of Chinese PTT posts, once stop words have been removed.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Once stop words have been removed, analyze the co-occurrence matrix and visualize the network from Chinese PTT posts.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","Analyze the co-occurrence matrix from Chinese PTT posts and visualize the network, once stop words have been removed.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'stopword-removal']","After the removal of stop words, analyze the co-occurrence matrix and visualize the network from Chinese PTT posts.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']",Extract and visualize the correlation network from Chinese PTT posts after cleaning stop words.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']",Visualize the correlation network of Chinese PTT posts after stop words are cleaned.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']","After cleaning stop words, extract and visualize the correlation network from Chinese PTT posts.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']","After stop words are cleaned, visualize the correlation network of Chinese PTT posts.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']",Clean stop words from Chinese PTT posts and visualize the correlation network.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']",Visualize the correlation network after cleaning stop words from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']","From Chinese PTT posts, clean stop words and visualize the correlation network.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']","After cleaning stop words, create a visualization of the correlation network from Chinese PTT posts.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'stopword-removal']",Clean stop words and visualize the correlation network from Chinese PTT posts.,3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']",Utilize the CKIP tokenizer to segment Chinese PTT texts before carrying out an analysis of the co-occurrence network.,3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","Employ the CKIP tokenizer for breaking down Chinese PTT texts into segments, followed by a network analysis based on co-occurrences.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","Apply the CKIP tokenizer for the segmentation of Chinese PTT texts, and subsequently perform a co-occurrence network analysis.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","Segment Chinese PTT texts using the CKIP tokenizer, then proceed with an analysis focusing on the network of co-occurrences.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","Initiate segmentation of Chinese PTT texts through the CKIP tokenizer, followed by conducting an analysis of the co-occurrence network.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","For Chinese PTT texts, first use the CKIP tokenizer for segmentation, then analyze the network of co-occurrences.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","Implement segmentation on Chinese PTT texts with the CKIP tokenizer, followed by a detailed co-occurrence network analysis.",3
+network-visualized,cooccurrence,"['visualized-network-graph', 'co-occurrence-matrix', 'tokenize-ckip']","For the analysis of Chinese PTT texts, employ the CKIP tokenizer to achieve segmentation, then proceed to analyze the co-occurrence network.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Utilize ckip tokenizer and visualize the correlation network from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']","For analyzing Chinese PTT texts, first apply the CKIP tokenizer for segmentation, then proceed with a correlation network analysis.",3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Apply ckip tokenizer and create a correlation network visualization from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Utilize the CKIP tokenizer for segmenting Chinese PTT texts before carrying out an analysis of the correlation network.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Implement ckip tokenizer and construct a correlation network visualization from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Adopt ckip tokenizer and depict a correlation network from Chinese PTT posts visually.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Incorporate ckip tokenizer and present a visual correlation network from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Take advantage of ckip tokenizer and develop a correlation network visualization from Chinese PTT posts.,3
+network-visualized,correlation,"['visualized-network-graph', 'correlation-matrix', 'tokenize-ckip']",Leverage ckip tokenizer and design a visual correlation network from Chinese PTT posts.,3
+sentiment-analyzed,,['sentiment-analysis'],Assess sentiment from Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Conduct sentiment analysis on Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Carry out sentiment analysis from Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Execute sentiment analysis on Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Undertake sentiment analysis on Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Implement sentiment analysis on Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Analyze sentiment from Chinese text in a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Perform sentiment analysis on Chinese text from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Carry out sentiment analysis on Chinese text inputted from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Execute sentiment analysis on Chinese text from an inputted CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Conduct sentiment analysis on Chinese text data from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Undertake sentiment analysis on Chinese text sourced from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Implement sentiment analysis on Chinese text extracted from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Perform sentiment examination on Chinese text from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Carry out sentiment evaluation on Chinese text inputted from a CSV file.,1
+sentiment-analyzed,,['sentiment-analysis'],Analyze sentiment from Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Perform sentiment analysis on Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],Evaluate sentiment in Chinese PTT posts.,1
+sentiment-analyzed,,['sentiment-analysis'],"Perform emotional tone detection on English movie reviews to categorize them as positive, negative, or neutral.",1
+sentiment-analyzed,,['sentiment-analysis'],Analyze sentiment in Chinese YouTube video comments related to beauty products.,1
+sentiment-analyzed,,['sentiment-analysis'],Run a sentiment analysis on English Amazon product reviews in the electronics category.,1
+sentiment-analyzed,,['sentiment-analysis'],Detect and classify emotions in Chinese forum discussions on education reforms.,1
+sentiment-analyzed,,['sentiment-analysis'],Use sentiment scoring to evaluate English financial news articles for market sentiment.,1
+sentiment-analyzed,,['sentiment-analysis'],I need to analyze the sentiment of English tweets related to the latest product launch.,1
+sentiment-analyzed,,['sentiment-analysis'],Conduct sentiment analysis on Chinese forum discussions about our brand.,1
+sentiment-analyzed,,['sentiment-analysis'],Perform a sentiment evaluation of English survey responses from our recent campaign.,1
+sentiment-analyzed,,['sentiment-analysis'],I’d like to extract sentiment trends from Chinese news articles published this year.,1
+sentiment-analyzed,,['sentiment-analysis'],Run sentiment analysis on English blog comments discussing environmental issues.,1
+sentiment-analyzed,,['sentiment-analysis'],Can you analyze the overall sentiment of Chinese app reviews from the App Store?,1
+sentiment-analyzed,,['sentiment-analysis'],Apply sentiment classification to English YouTube video comments about our product.,1
+sentiment-analyzed,,['sentiment-analysis'],I am analyzing the sentiment in Chinese user feedback collected through online questionnaires.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],I aim to analyze the sentiment of Chinese PTT posts using a dictionary-based approach.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],My goal is to evaluate the sentiment in Chinese PTT posts through a dictionary-based method.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],I plan to assess the emotional tone in Chinese texts from PTT posts using a sentiment dictionary.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],I intend to conduct sentiment analysis on Chinese PTT content using dictionary-based techniques.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],My task is to analyze the sentiment of Chinese PTT posts utilizing a dictionary approach.,1
+sentiment-analyzed,dictionary-based,['dictionary-based-sentiment-analysis'],I will be performing sentiment evaluation on Chinese texts from PTT posts via a dictionary method.,1
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Perform sentiment analysis on Chinese PTT posts after cleaning stop words.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Conduct sentiment analysis on stop words cleaned Chinese PTT posts.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Carry out sentiment analysis on Chinese PTT posts with stop words removed.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Execute sentiment analysis on Chinese PTT posts post stop words cleaning.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Undertake sentiment analysis on Chinese PTT posts following stop words removal.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Implement sentiment analysis on Chinese PTT posts after eliminating stop words.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Performing sentiment analysis on Chinese PTT posts subsequent to stop words cleansing.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Conducting sentiment analysis on Chinese PTT posts after stop words have been cleaned.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Carrying out sentiment analysis on Chinese PTT posts once stop words are removed.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Conduct sentiment analysis on Chinese social media comments after removing stop words.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Analyze the sentiment of Chinese news articles with stop words filtered out.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']","Perform Chinese text sentiment classification, ensuring stop word removal beforehand.",2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']","Run sentiment analysis on Chinese customer reviews, excluding all stop words.",2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Execute sentiment detection for Chinese online forum discussions with stop words removed.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']","Apply sentiment analysis to Chinese survey responses, after cleaning and removing stop words.",2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Determine emotional polarity in Chinese blog posts while eliminating stop words.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']","Use sentiment analysis to evaluate Chinese product feedback, making sure to filter out stop words.",2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']",Generate sentiment scores from Chinese user-generated content with stop words excluded.,2
+sentiment-analyzed,,"['sentiment-analysis', 'stopword-removal']","Implement sentiment analysis on Chinese transcripts, ensuring stop words are removed during preprocessing.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Utilize ckip tokenizer and perform sentiment analysis on Chinese PTT posts.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']","For Chinese PTT texts, use the CKIP tokenizer to perform segmentation and then conduct sentiment analysis.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Apply ckip tokenizer and conduct sentiment analysis on Chinese PTT posts.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Use ckip tokenizer and carry out sentiment analysis on Chinese PTT posts.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Utilize the CKIP tokenizer for segmenting Chinese PTT texts prior to executing sentiment analysis.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']","Employ the CKIP tokenizer to break down Chinese PTT texts into segments, followed by an analysis of sentiment.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']","Apply segmentation to Chinese PTT texts using the CKIP tokenizer, and subsequently carry out a sentiment analysis.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']","For analyzing sentiment in Chinese PTT texts, first segment them with the CKIP tokenizer, then proceed with the sentiment analysis.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']","Use the CKIP tokenizer to dissect Chinese PTT texts into manageable segments, then engage in sentiment analysis.",2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Analyze the sentiment of Chinese customer reviews using CKIP for word segmentation.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Conduct sentiment analysis on Chinese social media comments with CKIP word tokenizer.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Use CKIP to segment words before performing sentiment analysis on Chinese news articles.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Perform sentiment analysis on Chinese survey responses using CKIP segmentation.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Run sentiment classification on Chinese YouTube comments after CKIP-based tokenization.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Utilize CKIP to tokenize Chinese blog posts and analyze their sentiment.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Execute sentiment analysis on Chinese e-commerce feedback using CKIP for segmentation.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Apply CKIP word segmentation to Chinese forum discussions and detect sentiment polarity.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Identify emotional tones in Chinese chat messages using CKIP tokenization.,2
+sentiment-analyzed,,"['sentiment-analysis', 'tokenize-ckip']",Use CKIP to preprocess Chinese tweets and perform sentiment analysis.,2
+term-frequency,,['term-frequency-analysis'],Analyze high-frequency words from a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Examine high-frequency terms in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Analyze the most common words in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Investigate high-frequency vocabulary in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Study the most frequently used words in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Inspect high-frequency terms from a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Scrutinize the most common terms in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Examine the most frequently used vocabulary in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Analyze the most frequently occurring words in a Chinese CSV file.,1
+term-frequency,,['term-frequency-analysis'],Analyze the most common words in a collection of Chinese social media posts.,1
+term-frequency,,['term-frequency-analysis'],Generate a word frequency list from English customer reviews.,1
+term-frequency,,['term-frequency-analysis'],Identify the top keywords used in Chinese academic articles.,1
+term-frequency,,['term-frequency-analysis'],Compute word counts from English forum discussions.,1
+term-frequency,,['term-frequency-analysis'],Extract frequently used terms from Chinese product descriptions.,1
+term-frequency,,['term-frequency-analysis'],Perform frequency analysis on English news headlines.,1
+term-frequency,,['term-frequency-analysis'],Count how often each word appears in a corpus of Chinese blog posts.,1
+term-frequency,,['term-frequency-analysis'],Create a frequency table for words in English survey responses.,1
+term-frequency,,['term-frequency-analysis'],Find the most frequent words in Chinese movie subtitles.,1
+term-frequency,,['term-frequency-analysis'],Visualize word frequency from an English transcript of interviews.,1
+term-frequency,,['term-frequency-analysis'],Extract the most frequent keywords from Chinese social media comments.,1
+term-frequency,,['term-frequency-analysis'],Perform term frequency analysis on English product reviews from Amazon.,1
+term-frequency,,['term-frequency-analysis'],Identify the top recurring words in Chinese academic abstracts.,1
+term-frequency,,['term-frequency-analysis'],Generate word frequency statistics from English news articles.,1
+term-frequency,,['term-frequency-analysis'],Analyze frequently used terms in Chinese customer feedback surveys.,1
+term-frequency,,['term-frequency-analysis'],Calculate the most common words in English forum discussions.,1
+term-frequency,,['term-frequency-analysis'],Find high-frequency terms in Chinese political blog posts.,1
+term-frequency,,['term-frequency-analysis'],Compute word occurrence frequency from English scientific papers.,1
+term-frequency,,['term-frequency-analysis'],Visualize term frequency distribution in Chinese movie reviews.,1
+term-frequency,,['term-frequency-analysis'],Summarize the most used terms from English interview transcripts.,1
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Analyze the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Examine the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Investigate the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Study the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Inspect the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Scrutinize the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Explore the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Survey the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",Research the frequency of n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",I aim to analyze the frequency of word n-grams in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",My goal is to examine the frequency of combined word groups in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",I want to conduct an n-gram and word frequency analysis on Chinese PTT texts,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",I intend to study the frequency of word sequences in Chinese PTT content.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",My task is to analyze how often certain word combinations appear in Chinese PTT posts.,2
+term-frequency,ngram,"['term-frequency-analysis', 'perform-ngram']",I will be investigating the commonality of n-grams in Chinese texts from PTT posts.,2
+term-frequency,,['term-frequency-analysis'],I intend to analyze the frequency of words in Chinese PTT posts.,1
+term-frequency,,['term-frequency-analysis'],My goal is to examine the most common words in Chinese PTT posts.,1
+term-frequency,,['term-frequency-analysis'],I plan to identify frequently used words in Chinese texts from PTT posts.,1
+term-frequency,,['term-frequency-analysis'],I aim to assess the word frequency in Chinese PTT content.,1
+term-frequency,,['term-frequency-analysis'],Examine the most frequently appearing words in Chinese UDN news articles.,1
+term-frequency,,['term-frequency-analysis'],Analyze the most commonly used terms in Chinese UDN news articles.,1
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Analyze high-frequency n-grams from Chinese text in a CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Examine high-frequency n-grams in Chinese text from a CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Investigate high-frequency n-grams in a CSV file containing Chinese text.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Scrutinize high-frequency n-grams in Chinese text extracted from a CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Study high-frequency n-grams from a CSV file containing Chinese text.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Inspect high-frequency n-grams in Chinese text sourced from a CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Explore high-frequency n-grams in a Chinese CSV file of Chinese text.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Survey high-frequency n-grams in Chinese text derived from a CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'perform-ngram']",Assess high-frequency n-grams in Chinese a CSV file with Chinese text.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Analyze high-frequency terms from a Chinese CSV file after cleaning stop words.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Examine high-frequency vocabulary from a Chinese CSV file post stop words removal.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Study high-frequency words from a Chinese CSV file following stop words cleansing.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Investigate high-frequency lexicon from a Chinese CSV file after eliminating stop words.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Explore high-frequency phrases from Chinese a CSV file post stop words eradication.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Inspect high-frequency expressions from Chinese a CSV file following stop words deletion.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Scrutinize high-frequency idioms from Chinese a CSV file after stop words exclusion.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Survey high-frequency language from Chinese a CSV file post stop words omission.,2
+term-frequency,,"['term-frequency-analysis', 'stopword-removal']",Review high-frequency terminology from Chinese a CSV file following stop words suppression.,2
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I want to conduct an n-gram and word frequency analysis on Chinese PTT texts, which must include the removal of stopwords.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I aim to carry out an analysis of word frequencies and n-grams on Chinese PTT texts, with the elimination of stopwords being a crucial step.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I wish to initiate a frequency analysis on n-grams, following the removal process of stopwords.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I'm preparing to engage in a study of n-grams and word frequency on Chinese PTT literature, with the indispensable task of eliminating stopwords.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I am determined to analyze n-grams and word frequencies in Chinese PTT texts, where the clearing of stopwords is a required action.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I desire to proceed with an analysis involving n-grams and word frequency on Chinese PTT texts, with an imperative step being the eradication of stopwords.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I plan to perform a study on Chinese PTT texts using n-gram and word frequency analysis, where removing stopwords is an essential part.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I intend to undertake a word frequency and n-gram analysis on Chinese PTT texts, necessitating the exclusion of stopwords.",3
+term-frequency,ngram,"['term-frequency-analysis', 'stopword-removal', 'perform-ngram']","I am set to analyze Chinese PTT texts through n-gram and word frequency methods, with a mandatory step of discarding stopwo",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Utilize ckip tokenizer and Evaluate high-frequency terms from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Employ ckip tokenizer and Examine high-frequency words from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Apply ckip tokenizer and Assess high-frequency vocabulary from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Use ckip tokenizer and Inspect high-frequency terms from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Implement ckip tokenizer and Study high-frequency words from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Adopt ckip tokenizer and Scrutinize high-frequency vocabulary from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Leverage ckip tokenizer and Investigate high-frequency terms from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Utilize ckip tokenizer and Review high-frequency words from a Chinese CSV file.,2
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip']",Apply ckip tokenizer and Analyze high-frequency vocabulary from a Chinese CSV file.,2
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","I want to conduct an n-gram and word frequency analysis on Chinese PTT texts, which must include the removal of stopwords and the use of the CKIP tokenizer.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","I intend to perform a frequency analysis of words and n-grams on Chinese PTT texts, which requires discarding stopwords and utilizing the CKIP tokenizer.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","I wish to engage in a study of n-grams and word frequency on Chinese PTT texts, with the prerequisite of excluding stopwords and applying the CKIP tokenizer.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","I desire to conduct a detailed analysis of word frequencies and n-grams in Chinese PTT texts, with the indispensable requirement of removing stopwords and utilizing the CKIP tokenizer.""",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","I am preparing to analyze n-grams and word frequencies within Chinese PTT literature, which includes the necessary action of stripping out stopwords and employing the CKIP tokenizer for segmentation.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","For Chinese PTT texts, use the CKIP tokenizer to segment the texts and then conduct a word frequency analysis on the n-gram results",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","Utilize the CKIP tokenizer for segmenting Chinese PTT texts, followed by a word frequency analysis based on the outcomes of n-grams.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']","Apply segmentation to Chinese PTT texts with the CKIP tokenizer, and afterward, undertake a word frequency analysis based on the n-gram patterns.",3
+term-frequency,ngram,"['term-frequency-analysis', 'tokenize-ckip', 'perform-ngram']",Put to use ckip tokenizer and Ascertain the frequency rate of n-grams in Chinese PTT posts.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","I'd like to perform word frequency statistics on a collection of Chinese news articles, using CKIP for tokenization and filtering out stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Please analyze the word frequencies in a set of Chinese social media posts, making sure to remove stopwords and use CKIP for segmentation.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","I want a word frequency report for my Chinese customer reviews dataset, and it must include CKIP word segmentation and stopword removal.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Could you help me extract and visualize the most frequent words from Chinese YouTube comments, with CKIP-based tokenization and stopwords excluded?",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","I'm interested in computing term frequency counts on Chinese forum discussions, and I need the tool to use CKIP for tokenizing and eliminate stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Generate a frequency list of terms from Chinese survey responses, using CKIP for segmentation and excluding all standard stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Please conduct a frequency analysis of Chinese blog articles, ensuring that CKIP is used for tokenization and stopwords are filtered out.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","I'd like to analyze the most common words in Chinese academic abstracts, with preprocessing that includes CKIP tokenization and stopword removal.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Provide a word count analysis for a dataset of Chinese product reviews, making sure to apply CKIP segmentation and remove stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","I need to run a frequency analysis on Chinese news headlines, and it's important that stopwords are removed and CKIP is used for word segmentation.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Analyze the word frequency in Chinese social media posts using CKIP for tokenization and removing stopwords.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Identify the most common words in Chinese academic articles after CKIP segmentation and stopword removal.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Perform word frequency analysis on Chinese product reviews, applying CKIP tokenizer and filtering out stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Extract frequently used terms in Chinese political news, using CKIP for word segmentation and eliminating stopwords.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Compute word frequency from Chinese forum discussions, with CKIP-based tokenization and stopword removal.",3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Generate a frequency list of Chinese terms in blog posts using CKIP tokenizer and excluding stopwords.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Identify the most frequent keywords in Chinese online comments after CKIP word segmentation and stopword filtering.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Calculate word frequencies in Chinese customer feedback with CKIP tokenization and stopword removal applied.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']",Detect high-frequency words in Chinese e-commerce reviews using CKIP segmenter and by removing stopwords.,3
+term-frequency,,"['term-frequency-analysis', 'tokenize-ckip', 'stopword-removal']","Conduct frequency analysis on Chinese Wikipedia articles, applying CKIP for segmentation and eliminating stopwords.",3
+topic-modeled,LDA,['topic-model-lda'],Analyze topics from Chinese PTT posts using LDA model.,1
+topic-modeled,LDA,['topic-model-lda'],Identify themes in Chinese PTT posts through LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],Use LDA topic modeling to analyze Chinese PTT posts.,1
+topic-modeled,LDA,['topic-model-lda'],Analyze Chinese PTT posts for topics using LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],Employ LDA topic modeling to identify themes in Chinese PTT posts.,1
+topic-modeled,LDA,['topic-model-lda'],Analyze Chinese PTT posts to identify topics using LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],Use LDA topic modeling to identify themes in Chinese PTT posts.,1
+topic-modeled,LDA,['topic-model-lda'],Analyze themes in Chinese PTT posts using LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],Identify topics in Chinese PTT posts through LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],Analyze topics from Chinese text data in a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Examine topics within Chinese text data from a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Investigate topics in Chinese text data contained in a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Explore topics from Chinese text data within a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Study topics in Chinese text data from a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Inspect topics within Chinese text data in a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Scrutinize topics from Chinese text data contained in a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Probe into topics within Chinese text data from a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],Delve into topics in Chinese text data within a CSV file.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Analyze topics from Chinese PTT posts using GuidedLDA.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Perform GuidedLDA topic modeling on Chinese PTT posts.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Use GuidedLDA to identify topics in Chinese PTT posts.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Apply GuidedLDA topic modeling to analyze Chinese PTT posts.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Identify topics in Chinese PTT posts using GuidedLDA topic modeling.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Analyze Chinese PTT posts for topics using GuidedLDA.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Perform topic analysis on Chinese PTT posts using GuidedLDA.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Use GuidedLDA for topic modeling on Chinese PTT posts.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Apply GuidedLDA to Chinese PTT posts for topic analysis,1
+topic-modeled,LDA,['topic-model-lda'],I aim to identify topics in Chinese text data from a CSV file using LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],My goal is to discover topics within Chinese texts from a CSV file through LDA topic modeling.,1
+topic-modeled,LDA,['topic-model-lda'],I plan to extract and analyze topics from Chinese textual data in a CSV file using LDA.,1
+topic-modeled,LDA,['topic-model-lda'],I intend to apply LDA topic modeling to identify themes in Chinese content from a CSV document.,1
+topic-modeled,LDA,['topic-model-lda'],My task is to use LDA topic modeling to uncover topics in Chinese texts extracted from a CSV file.,1
+topic-modeled,LDA,['topic-model-lda'],I will be conducting topic analysis on Chinese text data from a CSV file utilizing LDA modeling.,1
+topic-modeled,LDA,['topic-model-lda'],I want to perform topic modeling on cleaned Chinese PTT posts.,1
+topic-modeled,LDA,['topic-model-lda'],My goal is to apply topic modeling to refined Chinese text from PTT posts.,1
+topic-modeled,LDA,['topic-model-lda'],I aim to conduct topic modeling on Chinese PTT posts after text cleaning.,1
+topic-modeled,LDA,['topic-model-lda'],The objective is to execute topic modeling on Chinese PTT posts post text refinement.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],I seek to utilize Guided LDA for topic modeling on cleaned Chinese PTT posts.,1
+topic-modeled,GuidedLDA,['topic-model-guidedlda'],Focusing on implementing topic modeling using Guided LDA on Chinese text from PTT posts.,1
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I aim to conduct a topic modeling analysis on Chinese text collections, necessitating the elimination of stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","My objective is to apply topic modeling to a corpus of Chinese documents, with the prerequisite of stripping out stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I plan to undertake an analysis of topics within a body of Chinese writings, which involves the removal of stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I'm looking to execute topic modeling on a set of Chinese texts, requiring the exclusion of stopwords from the analysis.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","My project involves performing analysis based on topic modeling techniques on Chinese texts, including the step of stopwords elimination.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I intend to carry out a topic-based analysis on Chinese literature, with an essential step being the deletion of stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","It's my goal to analyze Chinese texts through topic modeling, which will include the task of filtering out stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I am preparing to engage in topic modeling analysis targeting Chinese text collections, which will involve eradicating stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","My aim is to analyze topics within Chinese texts, necessitating the process of removing any stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']","I wish to proceed with a topic modeling analysis on a selection of Chinese writings, with the important task of discarding stopwords.",2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Reveal the themes in Chinese PTT posts after stop words are removed.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Spot the main subjects in Chinese PTT posts following the deletion of stop words.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Ascertain key ideas in Chinese PTT posts after stop words are eradicated.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Determine the central themes in Chinese PTT posts post stop words purification.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Find topics from Chinese PTT posts after stop word exclusion.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Ascertain themes in Chinese PTT posts post stop word omission.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Determine topics in Chinese PTT posts following stop word removal.,2
+topic-modeled,LDA,"['topic-model-lda', 'stopword-removal']",Discern themes from Chinese PTT posts after stop word elimination.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Utilize ckip tokenizer and perform LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Apply ckip tokenizer and execute LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Employ ckip tokenizer and conduct LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Use ckip tokenizer and run LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Adopt ckip tokenizer and perform LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Utilize ckip tokenizer and execute LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Implement ckip tokenizer and carry out LDA topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Utilize ckip tokenizer and conduct topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Apply ckip tokenizer and perform topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Implement ckip tokenizer and execute topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Employ ckip tokenizer and carry out topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Use ckip tokenizer and run topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Adopt ckip tokenizer and initiate topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Incorporate ckip tokenizer and launch topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Apply ckip tokenizer and commence topic modeling on Chinese PTT posts.,2
+topic-modeled,LDA,"['topic-model-lda', 'tokenize-ckip']",Utilize ckip tokenizer and start topic modeling on Chinese PTT posts.,2
